@@ -1,0 +1,73 @@
+h1
+{
+	text-align: center;
+	color: #2C272E;
+	font-family: helvetica;
+}
+
+
+
+h2
+{
+   font-family: helvetica;
+   color: #2C272E
+   letter-spacing: 1px;
+   text-align: center;
+}
+
+
+p
+{
+   font-family: helvetica; 
+   color: #393E46;
+   font-size: 20px
+}
+
+p
+{
+	line-height: 1.7
+}
+
+p
+{
+	letter-spacing: 1px
+}
+
+body
+ {
+ 	background-color: #D3E4CD;
+ 	text-align: justify;
+ }
+
+ .img-circle
+ {
+ 	border-radius: 50%
+ }
+
+ul
+ {
+ 	font-size: 20px
+ }
+
+a
+{
+	font-size: 20px
+}
+
+
+a
+{
+	text-decoration: none;
+}
+
+a
+{
+color: #99A799;;
+}
+
+a:hover
+{
+color: red;
+}
+
+
